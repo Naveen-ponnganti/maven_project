@@ -19,6 +19,8 @@
     <artifactId>spring-core</artifactId>
     <version>6.0.13</version>
 </dependency>
-
+      <groupId>org.springframework</groupId>
+    <artifactId><spring-contest></spring-contest>/artifactId>
+    <version>6.0.13</version>
   </dependencies>
 </project>
