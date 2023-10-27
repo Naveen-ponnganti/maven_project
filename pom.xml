@@ -23,4 +23,7 @@
     <artifactId><spring-contest></spring-contest>/artifactId>
     <version>6.0.13</version>
   </dependencies>
+    groupId>org.springframework</groupId>
+    <artifactId>spring-npk</artifactId>
+    <version>6.0.13</version>
 </project>
